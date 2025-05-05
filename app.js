@@ -1,1 +1,1 @@
-alert("Hmody 3mak")
+alert("Hmody 3mak & 3m elkol")
