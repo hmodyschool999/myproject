@@ -1,0 +1,1 @@
+alert("Hmody 3mak")
